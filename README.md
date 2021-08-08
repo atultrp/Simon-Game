@@ -17,9 +17,10 @@ This webpage is simply made by using pure
 
 ## 📍️ Demo
 
-Website link : [Simon Game](https://atultrp.github.io//)
+Website link : [Simon Game](https://atultrp.github.io/Simon-Game/)
 <br/>
 
+![Screenshot from 2021-08-08 12-28-18](https://user-images.githubusercontent.com/69186169/128623837-5111a25f-4d69-48a4-b637-90267c702aa1.png)
 
 
 ## 😯️ Features
@@ -35,7 +36,7 @@ Website link : [Simon Game](https://atultrp.github.io//)
 Clone the project
 
 ```bash
-  git clone https://github.com/your-username//
+  git clone https://github.com/your-username/Simon-Game/
 ```
 
 Go to the project directory
