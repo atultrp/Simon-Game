@@ -1,8 +1,8 @@
 # ⚡️ Simon Game ⚡️
 
-##Welcome to the Simon Game. 😎
-<br>
-### 😏️ How to play this game?
+## Welcome to the Simon Game. 😎
+
+###  😏️ How to play this game?
 1- At the beginning of the game, one of the 4 keys lights up randomly producing simultaneously a sound associated to the key. 
 <br>2- The player has to press the same key. 
 <br>3- Next, the Simon turns back the same light on and a second one, again randomly. 
